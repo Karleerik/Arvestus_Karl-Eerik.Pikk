@@ -28,45 +28,45 @@
                     Grid.Row="0"
                     
                    >
-            <Pivot  Background="DimGray" Margin="0,0,108,0" Height="131">
-                <PivotItem Margin="15,12,15,0">
+            <Pivot  Background="DimGray" Margin="0,0,200,0" Height="131">
+                <PivotItem Margin="5,5,15,0">
                     <PivotItem.Header>
                         <StackPanel>
                             <TextBlock FontFamily="Segoe MDL2 Assets" Text="&#xE10F;" HorizontalAlignment="Center"></TextBlock>
                             <TextBlock Text="Item 1" Margin="0,-5"></TextBlock>
                         </StackPanel>
                     </PivotItem.Header>
-                    <TextBlock FontSize="20" Margin="20">Content 1</TextBlock>
+                    <TextBlock FontSize="20" Margin="10">Content 1</TextBlock>
                 </PivotItem>
 
-                <PivotItem  Margin="15,12,15,0">
+                <PivotItem  Margin="5,5,15,0">
                     <PivotItem.Header>
                         <StackPanel>
                             <TextBlock FontFamily="Segoe MDL2 Assets" Text="&#xE13A;" HorizontalAlignment="Center"></TextBlock>
                             <TextBlock Text="Item 2" Margin="0,-5"></TextBlock>
                         </StackPanel>
                     </PivotItem.Header>
-                    <TextBlock FontSize="20" Margin="20">Content 2</TextBlock>
+                    <TextBlock FontSize="20" Margin="10">Content 2</TextBlock>
                 </PivotItem>
 
-                <PivotItem  Margin="15,12,15,0">
+                <PivotItem  Margin="5,5,15,0">
                     <PivotItem.Header>
                         <StackPanel>
                             <TextBlock FontFamily="Segoe MDL2 Assets" Text="&#xE134;" HorizontalAlignment="Center"></TextBlock>
                             <TextBlock Text="Item 3" Margin="0,-5"></TextBlock>
                         </StackPanel>
                     </PivotItem.Header>
-                    <TextBlock  FontSize="20" Margin="20">Content 3</TextBlock>
+                    <TextBlock  FontSize="20" Margin="10">Content 3</TextBlock>
                 </PivotItem>
 
-                <PivotItem Margin="15,12,15,0">
+                <PivotItem Margin="5,5,15,0">
                     <PivotItem.Header>
                         <StackPanel>
                             <TextBlock FontFamily="Segoe MDL2 Assets" Text="&#xE14D;" HorizontalAlignment="Center"></TextBlock>
                             <TextBlock Text="Item 4" Margin="0,-5"></TextBlock>
                         </StackPanel>
                     </PivotItem.Header>
-                    <TextBlock FontSize="20" Margin="20">Content 4</TextBlock>
+                    <TextBlock FontSize="20" Margin="10">Content 4</TextBlock>
                 </PivotItem>
 
             </Pivot>
